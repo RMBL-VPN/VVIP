@@ -10,8 +10,8 @@ HARGA SEWA AUTOSCRIPT
 LIFETIME: 150K
 ```
 • HUBUNGI:
-- WhatsApp: [KLIK DISINI](https://wa.me/085321359310)
-- Telegram: [KLIK DISINI](https://t.me/rmblvpn)
+- WhatsApp: [KLIK DISINI](https://wa.me/085256929176)
+- Telegram: [KLIK DISINI](https://t.me/rmblvpn1)
 
 ### PERHATIAN
 
@@ -20,5 +20,5 @@ LIFETIME: 150K
 
 ### INSTALL SCRIPT
 ```
-apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/RMBL-VPN/v2/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/RMBL-VPN/VVIP/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
